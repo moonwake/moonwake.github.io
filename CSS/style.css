@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'Alata-regular';
+    font-family: 'Alata', sans-serif;
     src: url('Alata-regular.ttf');
     font-style: normal;
     font-weight: 100;
 }
 @font-face {
-    font-family: 'Alata-bold';
+    font-family: 'Alata', sans-serif;
     src: url('Alata-regular.ttf');
-    font-style: normal;
+    font-style: bold;
     font-weight: 600;
 }
 
